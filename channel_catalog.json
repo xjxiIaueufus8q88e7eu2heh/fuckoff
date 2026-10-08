@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-08T10:00:00Z",
+  "channels": [
+    {
+      "id": "762",
+      "name": "SonyPix HD",
+      "image": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png",
+      "quality": "HD",
+      "language": "English",
+      "category": "Movies",
+      "featured": true
+    },
+    {
+      "id": "1391",
+      "name": "Hungama",
+      "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",
+      "quality": "",
+      "language": "Hindi",
+      "category": "Entertainment",
+      "featured": true
+    },
+    {
+      "id": "1104",
+      "name": "StarMovies HD",
+      "image": "https://jiotvimages.cdn.jio.com/dare_images/images/StarMoviesHD1.png",
+      "quality": "HD",
+      "language": "English",
+      "category": "Movies",
+      "featured": true
+    },
+    {
+      "id": "368",
+      "name": "StarVijay HD",
+      "image": "https://jiotvimages.cdn.jio.com/dare_images/images/StarVijayHD1.png",
+      "quality": "HD",
+      "language": "Tamil",
+      "category": "Entertainment",
+      "featured": true
+    }
+  ]
+}
