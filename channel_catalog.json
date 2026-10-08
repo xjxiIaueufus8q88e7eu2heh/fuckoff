@@ -16,7 +16,7 @@
       "name": "Hungama",
       "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",
       "quality": "",
-      "language": "Hindi",
+      "languages": ["Tamil", "Hindi", "Telugu"],
       "category": "Entertainment",
       "featured": true
     },
@@ -43,7 +43,7 @@
       "name": "Disney",
       "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png",
       "quality": "",
-      "languages": ["Tamil", "Hindi", "Kannada", "English"],
+      "languages": ["Tamil", "Hindi", "Telugu", "English"],
       "category": "Entertainment",
       "featured": false
     }
