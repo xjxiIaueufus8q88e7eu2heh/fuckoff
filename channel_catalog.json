@@ -43,7 +43,7 @@
       "name": "Disney",
       "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png",
       "quality": "",
-      "language": "English",
+      "languages": ["Tamil", "Hindi", "Kannada"],
       "category": "Entertainment",
       "featured": false
     }
