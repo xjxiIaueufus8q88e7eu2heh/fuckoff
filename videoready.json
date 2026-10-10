@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "provider": "videoready",
+  "channels": [
+    {
+      "id": "521",
+      "name": "Suntv HD",
+      "bid": "1000003322",
+      "sampling": false,
+      "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png"
+    },
+    {
+      "id": "380",
+      "name": "Ktv HD",
+      "bid": "1000003322",
+      "sampling": false,
+      "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png"
+    }
+  ]
+}
