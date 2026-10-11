@@ -15,6 +15,13 @@
       "bid": "1000003322",
       "sampling": false,
       "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png"
+    },
+    {
+      "id": "287",
+      "name": "Animal Planet HD",
+      "bid": "1000001088",
+      "sampling": true,
+      "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_BoxCover_8e37b9fb-e93a-47e9-8b5d-38bd3cad52f2.png"
     }
   ]
 }
