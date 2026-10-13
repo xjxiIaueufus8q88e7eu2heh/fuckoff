@@ -3,8 +3,8 @@
   "provider": "videoready",
   "channels": [
     {
-      "id": "524",
-      "name": "Suntv HD",
+      "id": "220",
+      "name": "Suntv xs",
       "bid": "1000001368",
       "sampling": false,
       "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png"
