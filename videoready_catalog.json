@@ -8,6 +8,13 @@
       "bid": "1000001368",
       "sampling": false,
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/StarVijayHD1.png"
+    },
+    {
+      "id": "521",
+      "name": "SunTv HD",
+      "bid": "1000003323",
+      "sampling": false,
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/StarVijayHD1.png"
     }
   ]
 }
